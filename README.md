@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muhammadhammad-tech
 - 👀 I’m interested in Crypto Currency
-- 🌱 I’m currently learning Block Chain
+- 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me muhammad.hammad98007@gmail.com
 
 <!---
